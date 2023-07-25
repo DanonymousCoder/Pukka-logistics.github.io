@@ -9,6 +9,7 @@
 .head {
     margin: 5px 10px;
     display: flex;
+    gap: 20rem;
 }
 .nav-link ul {
     display: flex;
