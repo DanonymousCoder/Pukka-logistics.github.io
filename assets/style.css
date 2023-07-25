@@ -8,8 +8,13 @@
 }
 .head {
     margin: 5px 10px;
+    display: flex;
 }
 .nav-link ul {
     display: flex;
     list-style-type: none;
+    gap: 3.5rem;
+}
+.nav-link ul a {
+    text-decoration: none;
 }
