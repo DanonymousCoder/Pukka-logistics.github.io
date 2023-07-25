@@ -7,7 +7,7 @@
     background-image: url();
 }
 .head {
-    margin: 10px 30px;
+    margin: 30px 10rem;
     display: flex;
     gap: 20rem;
 }
