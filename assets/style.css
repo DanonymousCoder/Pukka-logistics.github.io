@@ -51,6 +51,12 @@
 }
 .body-txt {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: center;
+    justify-content: center;
+    margin-right: ;
 }
 .explore {
     background-color: rgb(255, 60, 0);
