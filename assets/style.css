@@ -25,5 +25,9 @@
 }
 .nav-link ul a {
     text-decoration: none;
-    color: orangered;
+    color: black;
+}
+.nav-link ul a.button {
+    background-color: orangered;
+    color: black;
 }
