@@ -23,7 +23,7 @@
     list-style-type: none;
     gap: 3.5rem;
 }
-.nav-link ul a {
+.nav-link ul a.link {
     text-decoration: none;
     color: black;
 }
