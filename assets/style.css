@@ -42,3 +42,6 @@
     border: 1px solid black;
     border-radius: 7px;
 }
+.social-link a img {
+    height: 20px;
+}
