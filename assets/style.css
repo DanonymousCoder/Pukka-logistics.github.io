@@ -11,7 +11,7 @@
 .head {
     margin: 0px 4rem;
     display: flex;
-    gap: 20rem;
+    gap: 15rem;
     align-items: center;
     padding: 25px;
 }
@@ -24,7 +24,7 @@
     gap: 3.5rem;
 }
 .nav-link ul a {
-    font-size: 18px;
+    font-size: 22px;
 }
 .nav-link ul a.home {
     text-decoration: none;
