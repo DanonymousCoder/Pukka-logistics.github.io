@@ -42,3 +42,12 @@
     border: 1px solid white;
     border-radius: 7px;
 }
+.body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+}
+.social ul a img {
+    height: 30px;
+}
