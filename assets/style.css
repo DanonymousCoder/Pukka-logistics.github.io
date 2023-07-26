@@ -92,7 +92,12 @@
 .box {
     background-color: white;
     width: 300px;
-    height: 150px;
+    height: 120px;
+    margin-left: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
 }
 .b2 {
     background-color: grey;
