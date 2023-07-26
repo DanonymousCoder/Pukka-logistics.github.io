@@ -91,6 +91,7 @@
 }
 .boxes {
     display: flex;
+    gap: 4rem;
 }
 .box1 {
     background-color: white;
