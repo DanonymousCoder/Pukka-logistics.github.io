@@ -56,7 +56,8 @@
     gap: .5rem;
     align-items: center;
     justify-content: center;
-    margin-right: ;
+    margin-right: 100px;
+    margin-left: 150px;
 }
 .explore {
     background-color: rgb(255, 60, 0);
