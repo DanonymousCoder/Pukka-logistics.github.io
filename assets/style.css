@@ -49,7 +49,7 @@
     margin: 100px;
     gap: 10rem;
 }
-.social {
+.social ul {
     display: flex;
     flex-direction: column;
     gap: 4rem;
