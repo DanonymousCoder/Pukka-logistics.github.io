@@ -89,7 +89,10 @@
 .social ul a img {
     height: 40px;
 }
-.box {
+.boxes {
+    display: flex;
+}
+.box1 {
     background-color: white;
     width: 300px;
     height: 120px;
@@ -106,4 +109,13 @@
 }
 .b2-txt {
     color: black;
+}
+box {
+    background-color: white;
+    width: 300px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
 }
