@@ -84,6 +84,7 @@
     margin-left: 40px;
     margin-right: 50px;
     margin-top: 70px;
+    list-style-type: none;
 }
 .social ul a img {
     height: 40px;
