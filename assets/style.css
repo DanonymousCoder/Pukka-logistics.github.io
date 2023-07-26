@@ -7,6 +7,7 @@
     margin: 0;
     padding: 0;
     background-image: url("./img/gettyimages-1169567839-612x612.jpg");
+    background-repeat: no-repeat;
 }
 .head {
     margin: 0px 4rem;
