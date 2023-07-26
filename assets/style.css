@@ -63,6 +63,9 @@
     font-size: 42px;
     text-align: center;
 }
+.sub-hero {
+    font-size: 14px;
+}
 .explore {
     background-color: rgb(255, 60, 0);
     color: black;
