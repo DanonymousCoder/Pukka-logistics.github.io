@@ -23,6 +23,9 @@
     list-style-type: none;
     gap: 3.5rem;
 }
+.nav-link ul a {
+    font-size: 18px;
+}
 .nav-link ul a.home {
     text-decoration: none;
     color:  rgb(255, 60, 0);
