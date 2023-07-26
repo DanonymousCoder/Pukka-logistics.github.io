@@ -49,6 +49,11 @@
     margin: 100px;
     gap: 10rem;
 }
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
 .social ul a img {
     height: 30px;
 }
