@@ -49,10 +49,13 @@
     margin: 100px;
     gap: 10rem;
 }
+.body-txt {
+    text-align: center;
+}
 .social ul {
     display: flex;
     flex-direction: column;
-    gap: 4rem;
+    gap: 1rem;
 }
 .social ul a img {
     height: 30px;
