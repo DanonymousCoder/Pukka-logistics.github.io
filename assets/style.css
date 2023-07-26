@@ -7,7 +7,6 @@
     margin: 0;
     padding: 0;
     background-image: url("./img/gettyimages-1169567839-612x612.jpg");
-    background: fixed;
 }
 .head {
     margin: 0px 4rem;
@@ -40,13 +39,6 @@
     color: black;
     text-decoration: none;
     padding: 6px 12px;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 7px;
-}
-.body {
-    display: flex;
-    margin: 50px;
-}
-.social-link a img {
-    height: 30px;
 }
