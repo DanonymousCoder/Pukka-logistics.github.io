@@ -141,6 +141,7 @@
 }
 .img {
     display: flex;
+    position: relative;
 }
 .about .img img.girl {
     border: 3px solid rgb(255, 60, 0);
