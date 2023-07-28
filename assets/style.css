@@ -131,5 +131,5 @@
     justify-content: center;
     gap: 1.5rem;
     margin-left: 30px;
-    box-shadow: 0 5px rgba(128, 128, 128, 0.123);
+    box-shadow: 0 3px rgba(128, 128, 128, 0.123);
 }
