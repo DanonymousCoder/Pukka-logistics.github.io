@@ -138,3 +138,8 @@
     height: 200px;
     width: 220px;
 }
+.about img.boy {
+    border: 3px solid rgb(255, 60, 0);
+    height: 200px;
+    width: 220px;
+}
