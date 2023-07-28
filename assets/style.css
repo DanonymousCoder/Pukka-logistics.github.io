@@ -148,7 +148,7 @@
 .about .img img.girl {
     border: 2px solid rgb(255, 60, 0);
     height: 270px;
-    width: 290px;
+    width: 320px;
     margin-right: 40px;
 }
 .about .img img.boy {
@@ -157,7 +157,7 @@
     left: 70px;
     border: 2px solid rgb(255, 60, 0);
     height: 270px;
-    width: 290px;
+    width: 320px;
 }
 .about-txt {
     display: flex;
