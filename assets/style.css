@@ -149,12 +149,11 @@
     border: 2px solid rgb(255, 60, 0);
     height: 270px;
     width: 320px;
-    margin-right: 40px;
 }
 .about .img img.boy {
     position: absolute;
     top: 100px;
-    left: 70px;
+    left: 100px;
     border: 2px solid rgb(255, 60, 0);
     height: 270px;
     width: 320px;
