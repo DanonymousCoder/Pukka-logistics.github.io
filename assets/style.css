@@ -143,8 +143,8 @@
 .img {
     display: flex;
     position: relative;
-    margin-right: 30px;
     margin-bottom: 100px;
+    margin-right: 50px;
 }
 .about .img img.girl {
     border: 2px solid rgb(255, 60, 0);
