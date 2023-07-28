@@ -166,6 +166,9 @@
     justify-content: flex-start;
     text-align: justify;
 }
+.about-txt p.head {
+    color: rgb(255, 60, 0);
+}
 .explore-b {
     background-color: rgb(255, 60, 0);
     color: black;
