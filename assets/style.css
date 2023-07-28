@@ -136,6 +136,7 @@
 .about {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 .about .img img.girl {
     border: 3px solid rgb(255, 60, 0);
