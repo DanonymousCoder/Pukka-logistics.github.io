@@ -147,17 +147,17 @@
 }
 .about .img img.girl {
     border: 2px solid rgb(255, 60, 0);
-    height: 250px;
-    width: 270px;
+    height: 270px;
+    width: 290px;
     margin-right: 40px;
 }
 .about .img img.boy {
     position: absolute;
     top: 100px;
-    left: 50px;
+    left: 70px;
     border: 2px solid rgb(255, 60, 0);
-    height: 250px;
-    width: 270px;
+    height: 270px;
+    width: 290px;
 }
 .about-txt {
     display: flex;
