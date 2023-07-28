@@ -161,7 +161,7 @@
 .about-txt {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    gap: 3rem;
 }
 .explore-b {
     background-color: rgb(255, 60, 0);
