@@ -119,6 +119,7 @@
     align-items: center;
     justify-content: center;
     gap: 1rem;
+    box-shadow: 0 5px rgba(128, 128, 128, 0.123);
 }
 .box2 {
     background-color: rgb(255, 60, 0);
