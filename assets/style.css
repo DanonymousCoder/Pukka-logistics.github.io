@@ -160,4 +160,5 @@
 }
 .about-txt {
     display: flex;
+    flex-direction: column;
 }
