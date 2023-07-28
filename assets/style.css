@@ -150,8 +150,8 @@
 }
 .about .img img.boy {
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 100px;
+    left: 50px;
     border: 2px solid rgb(255, 60, 0);
     height: 200px;
     width: 220px;
