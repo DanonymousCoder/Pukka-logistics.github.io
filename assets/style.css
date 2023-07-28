@@ -137,6 +137,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 30px;
 }
 .about .img img.girl {
     border: 3px solid rgb(255, 60, 0);
