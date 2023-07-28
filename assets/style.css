@@ -136,5 +136,7 @@
 .about img {
     border: 3px solid rgb(255, 60, 0);
     height: 200px;
-    width: 250px;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
 }
