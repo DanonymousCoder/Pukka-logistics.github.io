@@ -138,7 +138,7 @@
     align-items: center;
     justify-content: center;
     margin: 70px 200px;
-    gap: 9rem;
+    gap: 12rem;
 }
 .img {
     display: flex;
@@ -156,7 +156,7 @@
     left: 100px;
     border: 2px solid rgb(255, 60, 0);
     height: 270px;
-    width: 320px;
+    width: 350px;
 }
 .about-txt {
     display: flex;
