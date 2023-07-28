@@ -144,7 +144,6 @@
     display: flex;
     position: relative;
     margin-bottom: 100px;
-    margin-right: 50px;
 }
 .about .img img.girl {
     border: 2px solid rgb(255, 60, 0);
@@ -165,6 +164,7 @@
     gap: 1rem;
     justify-content: flex-start;
     text-align: justify;
+    width: 600px;
 }
 .about-txt p.head {
     color: rgb(255, 60, 0);
