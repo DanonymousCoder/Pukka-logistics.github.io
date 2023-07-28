@@ -135,4 +135,5 @@
 }
 .about img {
     border: 3px solid rgb(255, 60, 0);
+    height: 50px;
 }
