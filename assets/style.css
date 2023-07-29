@@ -220,4 +220,6 @@
     text-align: center;
     gap: 1rem;
 }
-.value .value-bx .text 
+.value .value-bx .text .h-text {
+    font-weight: bold;
+}
