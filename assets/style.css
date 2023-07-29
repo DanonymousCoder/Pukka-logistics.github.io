@@ -218,7 +218,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    gap: 1rem;
+    gap: 1.5rem;
 }
 .value .value-bx .text .h-txt {
     font-weight: bold;
