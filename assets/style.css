@@ -218,4 +218,5 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    gap: 1rem;
 }
