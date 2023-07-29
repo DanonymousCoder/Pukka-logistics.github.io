@@ -201,7 +201,7 @@
     align-items: center;
     box-shadow: 0 3px rgba(128, 128, 128, 0.123);
 }
-.value .value-bx .cir {
+.value .value-bx .dot .cir {
     border-radius: 70%;
     padding: 20px;
     background-color: rgb(255, 60, 0);
