@@ -234,4 +234,8 @@
     font-size: medium;
     font-weight: 530;
 }
-.value .value-bx 
+.value .value-bx {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
