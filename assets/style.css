@@ -194,3 +194,8 @@
     text-align: center;
     margin: 0 270px;
 }
+.value .value-bx .cir {
+    border-radius: 50%;
+    height: 30px;
+    background-color: rgb(255, 60, 0);
+}
