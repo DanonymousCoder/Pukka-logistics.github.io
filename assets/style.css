@@ -214,5 +214,8 @@
     background-color: rgb(255, 60, 0);
 }
 .value .value-bx .text {
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
