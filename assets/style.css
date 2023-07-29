@@ -194,6 +194,11 @@
     text-align: center;
     margin: 0 270px;
 }
+.value .value-bx .vision {
+    background-color: white;
+    height: 200px;
+    box-shadow: 0 3px rgba(128, 128, 128, 0.123);
+}
 .value .value-bx .cir {
     border-radius: 50%;
     height: 30px;
