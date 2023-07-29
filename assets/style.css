@@ -219,6 +219,7 @@
     justify-content: center;
     text-align: center;
     gap: 1.5rem;
+    position: relative;
 }
 .value .value-bx .text .h-txt {
     font-weight: bold;
@@ -232,7 +233,8 @@
     text-decoration: none;
     font-size: medium;
     font-weight: 530;
-    bottom: 0;
+    position: absolute;
+    bottom: 3px;
 }
 .value .value-bx {
     display: flex;
