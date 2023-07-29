@@ -198,6 +198,7 @@
     background-color:  white;
     height: 250px;
     width: 270px;
+    align-items: center;
     box-shadow: 0 3px rgba(128, 128, 128, 0.123);
 }
 .value .value-bx .cir {
