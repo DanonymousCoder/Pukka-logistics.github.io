@@ -188,3 +188,8 @@
     justify-content: center;
     padding: 2.5rem;
 }
+.value p.head {
+    font-weight: bolder;
+    font-size: 42px;
+    text-align: center;
+}
