@@ -202,8 +202,8 @@
     box-shadow: 0 3px rgba(128, 128, 128, 0.123);
 }
 .value .value-bx .dot {
-    align-content: center;
-    padding: 0.5px;
+  display: flex;
+  justify-content: center;
 }
 .value .value-bx .dot .cir {
     border-radius: 70%;
