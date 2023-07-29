@@ -197,6 +197,7 @@
 .value .value-bx .vision {
     background-color:  white;
     height: 200px;
+    width: 100px;
     box-shadow: 0 3px rgba(128, 128, 128, 0.123);
 }
 .value .value-bx .cir {
