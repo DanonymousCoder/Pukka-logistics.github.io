@@ -234,6 +234,7 @@
 }
 .value .value-bx .text .sub-txt {
     text-align: center;
+    margin: px 0;
 }
 .value .value-bx .text a.link {
     color: rgb(255, 60, 0);
