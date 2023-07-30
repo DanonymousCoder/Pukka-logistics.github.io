@@ -224,7 +224,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    gap: 1.5rem;
+    gap: 2rem;
     position: relative;
 }
 .value .value-bx .text .h-txt {
