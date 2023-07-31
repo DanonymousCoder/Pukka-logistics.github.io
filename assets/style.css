@@ -89,6 +89,7 @@
 }
 .boxes {
     display: flex;
+    margin: 20px 15px;
     gap: 6rem;
 }
 .box1 {
