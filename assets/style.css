@@ -89,8 +89,8 @@
 }
 .boxes {
     display: flex;
-    margin: 20px 15px;
-    gap: 6rem;
+    margin: 30px 50px;
+    gap: 7rem;
 }
 .box1 {
     background-color: white;
